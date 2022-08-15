@@ -1,0 +1,15 @@
+$ cabal init -p PACKAGENAME
+
+what does package build?
+1. Executable 
+main module of executable?
+1. Main.hs
+cabal version?
+1. Legacy 
+package name?
+PackageName
+
+
+$ cabal build snake64
+
+$ cabal run snake64 
